@@ -1,0 +1,6 @@
+opencv-python
+opencv-python-headless
+mediapipe
+numpy
+scikit-learn
+pickle5  # Only if you are using Python 3.7 or lower; otherwise, the built-in pickle module is sufficient.
